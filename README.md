@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 <!--
-**NimmiShashikala60/NimmiShashikala60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+*NimmiShashikala60/NimmiShashikala60* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=2ED573&width=1000&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Nimmi+Shashikala;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
+
+<h3 align="center"><b><i>Full Stack Developer from Sri Lanka</i></b></h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<br>
