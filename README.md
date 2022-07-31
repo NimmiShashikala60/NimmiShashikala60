@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<img align="center" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" height="100" width="100">
+<img align="center" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" height="100" width="500">
