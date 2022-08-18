@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nimmi Shashikala</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.![giphy](https://user-images.githubusercontent.com/108144987/185458804-f7477ce8-43c9-42b4-b825-aff641487427.gif)
-com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimmishashikala60&label=Profile%20views&color=0e75b6&style=flat" alt="nimmishashikala60" /> </p>
 
