@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nimmi Shashikala</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" alt="Coding" width="400" src="https://giphy.![giphy](https://user-images.githubusercontent.com/108144987/185458804-f7477ce8-43c9-42b4-b825-aff641487427.gif)
+com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimmishashikala60&label=Profile%20views&color=0e75b6&style=flat" alt="nimmishashikala60" /> </p>
 
 - 🔭 I’m currently working on **my project**
+![giphy](https://user-images.githubusercontent.com/108144987/185458749-89bbd2d2-109d-4c0e-938c-e0dec575f5bd.gif)
 
 - 🌱 I’m currently learning **ijse course**
 
@@ -13,8 +15,6 @@
 - 📫 How to reach me **nimmishashikala385@gnail.com**
 
 - ⚡ Fun fact **I am funny**
-
-<img aling="right" alt="Coding" width="400" src="https://www.alamy.com/man-working-on-laptop-happy-guy-businessman-creative-people-working-at-home-office-workplace-study-background-image356438306.html">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
