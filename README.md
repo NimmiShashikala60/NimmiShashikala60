@@ -1,3 +1,5 @@
+(![width="400"binary-code-background-digital-binary-data-with-streaming-digital-code-futuristic-cyberspace-concept-of-coding-or-hacker-crypto-data-dark-blue-gradient-background-vector](https://user-images.githubusercontent.com/108144987/185741331-db02ec6e-39a9-4fb1-8a37-e11e346a18f5.jpg)
+
 <h1 align="center">Hi 👋, I'm Nimmi Shashikala</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 <com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
