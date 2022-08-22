@@ -4,6 +4,20 @@
 <h1 align="center">Hi 👋, I'm Nimmi Shashikala</h1>
 <h3 align="center">A Full Stack developer from Sri Lanka</h3>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nimmishashikala60&label=Profile%20views&color=0e75b6&style=flat" alt="nimmishashikala60" /> </p>
+
+- 🔭 I’m currently working on **my project**
+![giphy](https://user-images.githubusercontent.com/108144987/185458749-89bbd2d2-109d-4c0e-938c-e0dec575f5bd.gif)
+
+- 🌱 I’m currently learning **ijse course**
+
+- 💬 Ask me about **linkid**
+
+- 📫 How to reach me **nimmishashikala385@gnail.com**
+
+- ⚡ Fun fact **I am funny**
+
+
 <br>
 <br>
 
@@ -45,9 +59,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/bavisetti-narayan-a94b5918b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/BNaraya45123467"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
+<a href="https://twitter.com/nimmi shashikala60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nimmi shashikala60" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nimmi shashikala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimmi shashikala" height="30" width="40" /></a>
 
 </p>
 
